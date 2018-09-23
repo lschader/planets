@@ -1,3 +1,4 @@
 *.txt
 results/
-
+log_*
+!log_01
